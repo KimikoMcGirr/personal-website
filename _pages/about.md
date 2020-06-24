@@ -12,6 +12,8 @@ Hi!
 
 I recently (06/19/2020) graduated with my PhD in Bioinformatics and Computational Biology from UNC Chapel Hill.
 
+I started this website on 06/24/2020 mostly to document how my job search goes during COVID-19. So it's a work in progress!
+
 Rather than regurgitate my [resume](../file/Resume.pdf) or CV, I thought I'd use this space to give me more depth.
 
 ### Who am I?
