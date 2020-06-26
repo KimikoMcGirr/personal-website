@@ -42,5 +42,6 @@ I want to make a team thrive. I love being tasked with multiple jobs that requir
 That being said, my skillset is in strategizing in the space between data and modeling.
 I try to build the best models for the question I want to answer and squeeze as much information
 out of it as possible. I also operate under the idea that models should be used for more than
-just validating a hypothesis or classifying a new datapoint. I like to design my models with the intention that I will
-be using them to
+just validating a hypothesis or classifying a new datapoint. I specifically design my models with the intention to
+learn something new about the data I'm investigating. The whole "black box" strategy does not
+sit well with me.
