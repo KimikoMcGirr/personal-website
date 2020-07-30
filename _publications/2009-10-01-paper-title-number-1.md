@@ -8,8 +8,5 @@ venue: 'Biorxiv'
 paperurl: https://github.com/KimikoMcGirr/personal-website/tree/master/files/2020_Suzuki.pdf
 citation: 'Suzuki SK, Errede B, Dohlman HG, Elston TC. (2020). "Model-driven experimental design identifies counter-acting feedback regulation in the osmotic stress response of yeast" <i> Biorxiv</i>. 1(1).'
 ---
-This paper is about the number 1. The number 1 is left for future work.
 
 [Download paper here](https://www.biorxiv.org/content/10.1101/2020.04.20.051599v1.full.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
