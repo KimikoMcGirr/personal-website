@@ -8,8 +8,3 @@ venue: 'Biorxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2020.04.20.051599v1.full.pdf'
 citation: 'Suzuki SK, Errede B, Dohlman HG, Elston TC. (2020). "Model-driven experimental design identifies counter-acting feedback regulation in the osmotic stress response of yeast" <i> Biorxiv</i>. 1(1).'
 ---
-This paper investigates a complex dynamical system using model informed experiments to decipher signaling feedbacks.
-
-[Download paper here](https://www.biorxiv.org/content/10.1101/2020.04.20.051599v1.full.pdf)
-
-Recommended citation: Suzuki SK, Errede B, Dohlman HG, Elston TC. (2020). "Model-driven experimental design identifies counter-acting feedback regulation in the osmotic stress response of yeast" <i> Biorxiv</i>.
